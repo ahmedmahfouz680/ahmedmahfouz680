@@ -3,4 +3,4 @@
 - Gmail: ahmedmahfouz680@gmail.com
 - Github: https://github.com/ahmedmahfouz680
 - Linkedin: https://www.linkedin.com/in/ahmedmahfouz680/
-- CV: https://www.linkedin.com/in/ahmedmahfouz680/details/featured/1734623697465/single-media-viewer/?profileId=ACoAAFXlmX8B9YurgG_il7M7XaFKsqNowBA9sAg
+- CV: https://www.linkedin.com/in/ahmedmahfouz680/overlay/1742301372975/single-media-viewer/?profileId=ACoAAFXlmX8B9YurgG_il7M7XaFKsqNowBA9sAg
